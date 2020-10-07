@@ -13,9 +13,10 @@
          </div>
       </div>
     </div>
-     <hr style="border-top: 1px solid #fff">
-  
-      <div class="row" style="margin: 10px 2px;">         <!-- End Col -->        
+    <hr style="border-top: 1px solid #fff">
+
+    <div class="container">
+      <div class="row">         <!-- End Col -->        
          <div class="col-6 col-md-3" style="margin-top:10px">
             <div class="footer-widget">
             <h3>Products</h3>
@@ -66,44 +67,42 @@
          </div>
                <!-- End Col -->         
       </div>
-   
+    </div>
     
-     <!-- End Widget Row -->
-
-  <!-- End Contact Container -->
 
 
-  <div class="copyright">
-     <div class="container">
-        <div class="row">
-           <div class="col-md-6">
-              <span> &copy; 2020 QXP. All Rights Reserved</span>
-           </div>
-           <!-- End Col -->
-           <div class="col-md-6">
-              <div class="copyright-menu">
-                 <ul>
-                    <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                    <li><a href="#"><i class="fa fa-youtube"></i></a></li>
-                    
-                 </ul>
-              </div>
-           </div>
-           <!-- End col -->
-        </div>
-        <!-- End Row -->
-     </div>
-     <!-- End Copyright Container -->
-  </div>
-  <!-- End Copyright -->
-  <!-- Back to top -->
-  <div id="back-to-top" class="back-to-top">
-     <button class="btn btn-dark" title="Back to Top">
-        <i class="fa fa-angle-up"></i>
-     </button>
-  </div>
-  <!-- End Back to top -->
+
+    <div class="copyright">
+       <div class="container">
+          <div class="row">
+             <div class="col-md-6">
+                <span> &copy; 2020 QXP. All Rights Reserved</span>
+             </div>
+             <!-- End Col -->
+             <div class="col-md-6">
+                <div class="copyright-menu">
+                   <ul>
+                      <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                      <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                      <li><a href="#"><i class="fa fa-youtube"></i></a></li>
+                      
+                   </ul>
+                </div>
+             </div>
+             <!-- End col -->
+          </div>
+          <!-- End Row -->
+       </div>
+       <!-- End Copyright Container -->
+    </div>
+    <!-- End Copyright -->
+    <!-- Back to top -->
+    <div id="back-to-top" class="back-to-top">
+       <button class="btn btn-dark" title="Back to Top">
+          <i class="fa fa-angle-up"></i>
+       </button>
+    </div>
+    <!-- End Back to top -->
 </footer>
 <!-- End Footer -->
 
