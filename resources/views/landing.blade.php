@@ -2,7 +2,7 @@
 
 @section('main')
  <div class="qxp-higered text-center">
-    <img src="{{asset('images/logo/bgAsset9.svg')}}" style="margin-top: 100px 0px" width="300" height="200">
+    <img class="qxp-logo" src="{{asset('images/logo/bgAsset9.svg')}}" style="margin-top: 100px 0px" width="300" height="200">
  </div>
 
  <div class="container">
@@ -116,7 +116,8 @@
     <!-- Container End -->
  </section>
 <!--  {{-- courasel --}} -->
- <div class="tw-hero-slider owl-carousel">
+<div id="my-carousel">
+  <div class="tw-hero-slider owl-carousel">
 
     <div class="slider-1 slider-map-pattern">
        <!-- Slider arrow end -->
@@ -209,16 +210,17 @@
         </div>
         <!-- Slider Wrapper End -->
      </div> 
- </div>
+  </div>
+</div>
 
  <div class="qxp-subfooter">
      <div class="container">
          <div class="row">
-            <div class="col-md-10">
+            <div class="col-md-9">
                 <h3>Give Your Students Knowledge Without Borders</h3>
             </div>
-            <div class="col-md-2">
-                <a href="#"class="btn btn-warning">SIGN UP</a>
+            <div class="col-md-3">
+                <a href="#"class="btn btn-white">SIGN UP</a>
             </div>
          </div>
      </div>

@@ -5,7 +5,7 @@
          <p>TRY QXP FREE FOR 14 DAYS</p>
          <h3>Empower Teams, Students & Workforce</h3>
          </div>
-         <div class="col-md-4" style="margin-top: 100px">
+         <div class="col-md-4 my-footer">
             <div class="row">
                   <button class="btn btn-primary">SIGN UP ITS FREE</button>
                   <button class="btn btn-warning" style="margin-left: 6px;">SEE PRICING</button>
@@ -15,55 +15,55 @@
     </div>
      <hr style="border-top: 1px solid #fff">
   
-      <div class="row">         <!-- End Col -->        
-               <div class="col-md-3 col-sm-6 col-xs-6">
-                  <div class="footer-widget footer-left-widget">
-                  <h3>Products</h3>
-                     <ul>
-                        <li> <span class="fa fa-angle-right"></span><a href="#"> QXP Academy</a></li>
-                        <li> <span class="fa fa-angle-right"></span><a href="#"> QXP Higher Ed</a></li>
-                        <li> <span class="fa fa-angle-right"></span><a href="#"> QXP Business</a></li>
-                        <li> <span class="fa fa-angle-right"></span><a href="#"> QXP Meeting</a></li>
-                     </ul>
-                  </div>
-                  <!-- End Footer Widget -->
-               </div>
-               <div class="col-md-3 col-sm-6 col-xs-6">
-                  <div class="footer-widget footer-left-widget">
-                  <h3>Company</h3>
-                     <ul>
-                        <li> <span class="fa fa-angle-right"></span><a href="#">About us</a></li>
-                        <li> <span class="fa fa-angle-right"></span><a href="#">Services</a></li>
-                        <li> <span class="fa fa-angle-right"></span><a href="#">Projects</a></li>
-                        <li> <span class="fa fa-angle-right"></span><a href="#">Our Team</a></li>
-                     </ul>
-                  </div>
-                  <!-- End Footer Widget -->
-               </div>
-               <div class="col-md-3 col-sm-6 col-xs-6">
-                  <div class="footer-widget footer-left-widget">
-                  <h3>QXP For</h3>
-                     <ul>
-                        <li> <span class="fa fa-angle-right"></span><a href="#">About us</a></li>
-                        <li> <span class="fa fa-angle-right"></span><a href="#">Services</a></li>
-                        <li> <span class="fa fa-angle-right"></span><a href="#">Projects</a></li>
-                        <li> <span class="fa fa-angle-right"></span><a href="#">Our Team</a></li>
-                     </ul>
-                  </div>
-                  <!-- End Footer Widget -->
-               </div>
-                  <div class="col-md-3 col-sm-6 col-xs-6">
-                  <div class="footer-widget footer-left-widget">
-                  <h3>Support</h3>
-                     <ul>
-                        <li> <span class="fa fa-angle-right"></span><a href="#">About us</a></li>
-                        <li> <span class="fa fa-angle-right"></span><a href="#">Services</a></li>
-                        <li> <span class="fa fa-angle-right"></span><a href="#">Projects</a></li>
-                        <li> <span class="fa fa-angle-right"></span><a href="#">Our Team</a></li>
-                     </ul>
-                  </div>
-                  <!-- End Footer Widget -->
-               </div>
+      <div class="row" style="margin: 10px 2px;">         <!-- End Col -->        
+         <div class="col-6 col-md-3" style="margin-top:10px">
+            <div class="footer-widget">
+            <h3>Products</h3>
+               <ul>
+                  <li> <span class="fa fa-angle-right"></span><a href="#"> QXP Academy</a></li>
+                  <li> <span class="fa fa-angle-right"></span><a href="#"> QXP Higher Ed</a></li>
+                  <li> <span class="fa fa-angle-right"></span><a href="#"> QXP Business</a></li>
+                  <li> <span class="fa fa-angle-right"></span><a href="#"> QXP Meeting</a></li>
+               </ul>
+            </div>
+            <!-- End Footer Widget -->
+         </div>
+         <div class="col-6 col-md-3"  style="margin-top:10px">
+            <div class="footer-widget">
+            <h3>Company</h3>
+               <ul>
+                  <li> <span class="fa fa-angle-right"></span><a href="#">About us</a></li>
+                  <li> <span class="fa fa-angle-right"></span><a href="#">Services</a></li>
+                  <li> <span class="fa fa-angle-right"></span><a href="#">Projects</a></li>
+                  <li> <span class="fa fa-angle-right"></span><a href="#">Our Team</a></li>
+               </ul>
+            </div>
+            <!-- End Footer Widget -->
+         </div>
+         <div class="col-6 col-md-3" style="margin-top:10px">
+            <div class="footer-widget">
+            <h3>QXP For</h3>
+               <ul>
+                  <li> <span class="fa fa-angle-right"></span><a href="#">About us</a></li>
+                  <li> <span class="fa fa-angle-right"></span><a href="#">Services</a></li>
+                  <li> <span class="fa fa-angle-right"></span><a href="#">Projects</a></li>
+                  <li> <span class="fa fa-angle-right"></span><a href="#">Our Team</a></li>
+               </ul>
+            </div>
+            <!-- End Footer Widget -->
+         </div>
+         <div class="col-6 col-md-3" style="margin-top:10px">
+            <div class="footer-widget">
+            <h3>Support</h3>
+               <ul>
+                  <li> <span class="fa fa-angle-right"></span><a href="#">About us</a></li>
+                  <li> <span class="fa fa-angle-right"></span><a href="#">Services</a></li>
+                  <li> <span class="fa fa-angle-right"></span><a href="#">Projects</a></li>
+                  <li> <span class="fa fa-angle-right"></span><a href="#">Our Team</a></li>
+               </ul>
+            </div>
+            <!-- End Footer Widget -->
+         </div>
                <!-- End Col -->         
       </div>
    

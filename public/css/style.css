@@ -689,12 +689,22 @@ section {
 }
 
 .btn-warning {
+  background-color: #FD6C03;
+  border-color: #FD6C03;
+}
+
+.btn-warning:hover {
+  background: #fff;
+  border-color: #fff;
+  color: #FD6C03;
+}
+.btn-white {
   background-color: #fff;
   color: #C92519;
   border-color: #FD6C03;
 }
 
-.btn-warning:hover {
+.btn-white:hover {
   background: #fff;
   border-color: #fff;
   color: #FD6C03;
@@ -6429,10 +6439,39 @@ ul.comments-reply .comment-body {
   margin-bottom: 0;
 }
 
+.my-footer{
+  margin-top: 100px;
+}
+
 /*for the features section only in mobile devices*/
 @media only screen and (max-width: 767px) {
     .features-section {
         text-align: center;
+    }
+    .qxp-logo{
+      height:150px;
+      width: 150px;
+    }
+    #my-carousel{
+      display: none;
+    }
+    .footer-top p{
+      font-size: 1em;
+    }
+    .footer-top h3{
+      font-size: 2em;
+    }
+    .tw-footer{
+      padding: 20px 0;
+    }
+    .my-footer{
+      margin: 15px 15px;
+    }
+    .footer-top{
+      margin-bottom: 10px;
+    }
+    .copyright{
+      margin-top: 10px;
     }
 }
 
